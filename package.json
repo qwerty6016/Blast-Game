@@ -1,0 +1,14 @@
+{
+  "name": "Blast-Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yegor Biryukov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
